@@ -1,0 +1,7 @@
+{
+    "model": "plant_leaf_validator.keras",
+    "image_size": 160,
+    "leaf_threshold": 0.8,
+    "positive_class": "leaf",
+    "negative_class": "non_leaf"
+}

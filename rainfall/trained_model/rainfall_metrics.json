@@ -1,0 +1,17 @@
+{
+    "location": "Bhongir, Telangana",
+    "training_period": "1981-01-31 to 2019-12-31",
+    "testing_period": "2020-01-01 to 2024-12-31",
+    "model": "HistGradientBoostingRegressor",
+    "features": [
+        "month",
+        "day_of_year",
+        "rainfall_lag_1",
+        "rainfall_lag_7",
+        "rainfall_lag_30",
+        "rainfall_mean_7"
+    ],
+    "MAE_mm_per_day": 4.142166657490252,
+    "RMSE_mm_per_day": 9.661498337865199,
+    "R2": 0.1948427039161319
+}

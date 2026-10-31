@@ -1,0 +1,39 @@
+# Large datasets
+datasets/
+yolo/
+notebooks/
+rainfall/INDmet_Taluka_Data/
+rainfall/INDmet_Taluka_Data.zip
+
+# Unused model backups
+models/PLANT_PROJECT_MODELS_BACKUP.zip
+models/best.pt
+
+# Old rainfall files
+rainfall/trained_model/bhongir_rainfall_model.joblib
+rainfall/trained_model/rainfall_climatology_progress.csv
+rainfall/trained_model/telangana_mandal_polygons.geojson
+
+# YOLO training outputs - keep only the deployed best.pt
+outputs/yolo_training/disease_localization_v1/*
+!outputs/yolo_training/disease_localization_v1/weights/
+outputs/yolo_training/disease_localization_v1/weights/*
+!outputs/yolo_training/disease_localization_v1/weights/best.pt
+
+# Temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+
+# App backups and logs
+app/app_backup*.py
+app/app_before*.py
+app/streamlit.log
+
+# Old prepared rainfall datasets
+rainfall/prepared/
+
+# Temporary test image
+test .jpg

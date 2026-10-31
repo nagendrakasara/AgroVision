@@ -1,0 +1,6608 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Dhone",
+    "id": 423
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Sullurpeta",
+    "id": 424
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Gajapatinagaram",
+    "id": 425
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Gajuvaka",
+    "id": 426
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Sitanagaram",
+    "id": 427
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Sitarampuram",
+    "id": 428
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Gospadu",
+    "id": 429
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Brahmamgari Matham",
+    "id": 430
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Brahmasamudram",
+    "id": 431
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Bhogapuram",
+    "id": 432
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "B Koduru",
+    "id": 433
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Chilamathur",
+    "id": 434
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Donakonda",
+    "id": 435
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Konakanametla",
+    "id": 436
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Nallamada",
+    "id": 437
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kotananduru",
+    "id": 438
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Musunuru",
+    "id": 439
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Atmakur",
+    "id": 440
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Uravakonda",
+    "id": 441
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Challapalle",
+    "id": 442
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Anakapalle",
+    "id": 443
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Anandapuram",
+    "id": 444
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Chennur",
+    "id": 445
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Echcherla",
+    "id": 446
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Erragondapalem",
+    "id": 447
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "G.Madugula",
+    "id": 448
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Gudipalli",
+    "id": 449
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Gudivada",
+    "id": 450
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Addanki",
+    "id": 451
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Addatigala",
+    "id": 452
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Adoni",
+    "id": 453
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Sabbavaram",
+    "id": 454
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Bathalapalle",
+    "id": 455
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Chinnamandem",
+    "id": 456
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Chintakommadinne",
+    "id": 457
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Chapad",
+    "id": 458
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Chatrayi",
+    "id": 459
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Kondapuram",
+    "id": 460
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "T Sundupalle",
+    "id": 461
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Achchutapuram",
+    "id": 462
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Achanta",
+    "id": 463
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Achchampeta",
+    "id": 464
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Ainavalli",
+    "id": 465
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Akividu",
+    "id": 466
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Alamurui",
+    "id": 467
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Allagadda",
+    "id": 468
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Agali",
+    "id": 469
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Agiripalle",
+    "id": 470
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Atlur",
+    "id": 471
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Atmakur",
+    "id": 472
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Amaravati",
+    "id": 473
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Ambajipeta",
+    "id": 474
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Anaparthi",
+    "id": 475
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Atreyapuram",
+    "id": 476
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Attili",
+    "id": 477
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Chandarlapadu",
+    "id": 478
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Chandragiri",
+    "id": 479
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Bhamini",
+    "id": 480
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Dakkili",
+    "id": 481
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Garugubilli",
+    "id": 482
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Kottapatnam",
+    "id": 483
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kottapeta",
+    "id": 484
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Vallur",
+    "id": 485
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Vangara",
+    "id": 486
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Saidapuram",
+    "id": 487
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Sitampeta",
+    "id": 488
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Srisailam",
+    "id": 489
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Srungavarapukota",
+    "id": 490
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Allavaram",
+    "id": 491
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Allur",
+    "id": 492
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Alur",
+    "id": 493
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Amadagur",
+    "id": 494
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Amalapuram",
+    "id": 495
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Amarapuram",
+    "id": 496
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Amrutaluru",
+    "id": 497
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Amudalavalasa",
+    "id": 498
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Anantagiri",
+    "id": 499
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Anantapur",
+    "id": 500
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Ananthasagaram",
+    "id": 501
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Anusamudrampeta",
+    "id": 502
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Araku Valley",
+    "id": 503
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Ardhavidu",
+    "id": 504
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Bhattiprolu",
+    "id": 505
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Bhimadolu",
+    "id": 506
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Bobbili",
+    "id": 507
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Gudipala",
+    "id": 508
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Chodavaram",
+    "id": 509
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Durgi",
+    "id": 510
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Duttalur",
+    "id": 511
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Midturu",
+    "id": 512
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Denkada",
+    "id": 513
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Devanakonda",
+    "id": 514
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Irala",
+    "id": 515
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Ravikamatam",
+    "id": 516
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Garividi",
+    "id": 517
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Giddalur",
+    "id": 518
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Badvel",
+    "id": 519
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Baireddipalle",
+    "id": 520
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Gandlapenta",
+    "id": 521
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Banganapalle",
+    "id": 522
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Bangarupalem",
+    "id": 523
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Elamanchili",
+    "id": 524
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Elamanchili",
+    "id": 525
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Muddanur",
+    "id": 526
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Aspari",
+    "id": 527
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Atlapragada Konduru",
+    "id": 528
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Atmakuru",
+    "id": 529
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Avanigadda",
+    "id": 530
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Badangi",
+    "id": 531
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Bapulapadu",
+    "id": 532
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Tadikonda",
+    "id": 533
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Gokavaram",
+    "id": 534
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Balaiahpalli",
+    "id": 535
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Balijipeta",
+    "id": 536
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Ballikurava",
+    "id": 537
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Bandi Atmakuru",
+    "id": 538
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Bantummilli",
+    "id": 539
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Bapatla",
+    "id": 540
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Belagal",
+    "id": 541
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Bellamkonda",
+    "id": 542
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Beluguppa",
+    "id": 543
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Bestavarapupeta",
+    "id": 544
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Betamcherla",
+    "id": 545
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Bhadrachalam",
+    "id": 546
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Bhimavaram",
+    "id": 547
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Bhimunipatnam",
+    "id": 548
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Bikkavolu",
+    "id": 549
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Birangi Kothakota",
+    "id": 550
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Bogole",
+    "id": 551
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Bollapalli",
+    "id": 552
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Bommanahal",
+    "id": 553
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Bondapalli",
+    "id": 554
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Buchchayyapeta",
+    "id": 555
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Buchireddipalem",
+    "id": 556
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Bukkapatnam",
+    "id": 557
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Burja",
+    "id": 558
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Butchinayudukandriga",
+    "id": 559
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Buttaigudem",
+    "id": 560
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Somandepalle",
+    "id": 561
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Sompeta",
+    "id": 562
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Vajrakarur",
+    "id": 563
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Vajrapukotturu",
+    "id": 564
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Kandukur",
+    "id": 565
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Katrenikona",
+    "id": 566
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Nallacheruvu",
+    "id": 567
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Nallajerla",
+    "id": 568
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Owk",
+    "id": 569
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Pachipenta",
+    "id": 570
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Chagalamarri",
+    "id": 571
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Chagallu",
+    "id": 572
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Chandrasekharapuram",
+    "id": 573
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Chebrolu",
+    "id": 574
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Chejerla",
+    "id": 575
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Chekrayapeta",
+    "id": 576
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Chennakesavapuram",
+    "id": 577
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Chennekothapalle",
+    "id": 578
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Chidikada",
+    "id": 579
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Chilakaluripet",
+    "id": 580
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Chillakur",
+    "id": 581
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Chimakurti",
+    "id": 582
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Chinna Ganjam",
+    "id": 583
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Chinnagottigallu",
+    "id": 584
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Cherukupalli",
+    "id": 585
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Duggirala",
+    "id": 586
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Duvvur",
+    "id": 587
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Dwarakatirumala",
+    "id": 588
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Undi",
+    "id": 589
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Undrajavaram",
+    "id": 590
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Jupadu Bungalow",
+    "id": 591
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Chintalapudi",
+    "id": 592
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Chintapalli",
+    "id": 593
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Chintur",
+    "id": 594
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Chippagiri",
+    "id": 595
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Chipurupalle",
+    "id": 596
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Chirala",
+    "id": 597
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Chittamur",
+    "id": 598
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Chittoor",
+    "id": 599
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Chitvel",
+    "id": 600
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Chowdepalle",
+    "id": 601
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Chunduru",
+    "id": 602
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Cuddapah",
+    "id": 603
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Dachepalli",
+    "id": 604
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Dagadarti",
+    "id": 605
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Darsi",
+    "id": 606
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Dattirajeru",
+    "id": 607
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Denduluru",
+    "id": 608
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Devarapalle",
+    "id": 609
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Devarapalli",
+    "id": 610
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Gampalagudem",
+    "id": 611
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Ruddam",
+    "id": 612
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Rudravaram",
+    "id": 613
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Maidukuru",
+    "id": 614
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Jaggampeta",
+    "id": 615
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Makavarapalem",
+    "id": 616
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Makkuva",
+    "id": 617
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Srikalahasti",
+    "id": 618
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Srirangarajapuram",
+    "id": 619
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kunavaram",
+    "id": 620
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Meliyaputti",
+    "id": 621
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Gollaprolu",
+    "id": 622
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Nidamarru",
+    "id": 623
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Nindra",
+    "id": 624
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Nizampatnam",
+    "id": 625
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Nujendla",
+    "id": 626
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Nuzvid",
+    "id": 627
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Obuladevaracheruvu",
+    "id": 628
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Obulavaripalle",
+    "id": 629
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Ojili",
+    "id": 630
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Ongole",
+    "id": 631
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Paderu",
+    "id": 632
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Samalkot",
+    "id": 633
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Kaviti",
+    "id": 634
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Devipatnam",
+    "id": 635
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Dharmavaram",
+    "id": 636
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Doravarisatram",
+    "id": 637
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Dornala",
+    "id": 638
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Dornipadu",
+    "id": 639
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Eleswaram",
+    "id": 640
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Gandepalle",
+    "id": 641
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Ravulapalem",
+    "id": 642
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Rayachoti",
+    "id": 643
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Polavaram",
+    "id": 644
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Ponduru",
+    "id": 645
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Korukonda",
+    "id": 646
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Kotturu",
+    "id": 647
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Dumbriguda",
+    "id": 648
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Edlapadu",
+    "id": 649
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Eluru",
+    "id": 650
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Emmiganur",
+    "id": 651
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Erpedu",
+    "id": 652
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Gaddamanugu Konduru",
+    "id": 653
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Gadivemula",
+    "id": 654
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Galividu",
+    "id": 655
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Ganapavaram",
+    "id": 656
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Gangadharanellore",
+    "id": 657
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Gangavaram",
+    "id": 658
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Gangavaram",
+    "id": 659
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Ganguvari Sigadam",
+    "id": 660
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Merakamudidam",
+    "id": 661
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Mogalturru",
+    "id": 662
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Mopidevi",
+    "id": 663
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Movva",
+    "id": 664
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Mudinepalle",
+    "id": 665
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Mulakalacheruvu",
+    "id": 666
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Rayadurg",
+    "id": 667
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Rayavaram",
+    "id": 668
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Razole",
+    "id": 669
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Reddigudem",
+    "id": 670
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Regidi Amadalavalasa",
+    "id": 671
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Renigunta",
+    "id": 672
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Rentachintala",
+    "id": 673
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Repalle",
+    "id": 674
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Rolla",
+    "id": 675
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Rolugunta",
+    "id": 676
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Hukumpeta",
+    "id": 677
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Ipuru",
+    "id": 678
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Iragavaram",
+    "id": 679
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Kintada Kotopadu",
+    "id": 680
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Narayanavanam",
+    "id": 681
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Ponnaluru",
+    "id": 682
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Ponnuru",
+    "id": 683
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Puthalapattu",
+    "id": 684
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Putlur",
+    "id": 685
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Rompicherla",
+    "id": 686
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Rompicherla",
+    "id": 687
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Sodam",
+    "id": 688
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Somala",
+    "id": 689
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Sri Avadhuta Kasinayana",
+    "id": 690
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Srikakulam",
+    "id": 691
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Tada",
+    "id": 692
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Tadepalle",
+    "id": 693
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Tadepalligudem",
+    "id": 694
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Tulluru",
+    "id": 695
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Tuni",
+    "id": 696
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Udayagiri",
+    "id": 697
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Ulavapadu",
+    "id": 698
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Gantyada",
+    "id": 699
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Gara",
+    "id": 700
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Hirehallu Hoshahalli",
+    "id": 701
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Holagunda",
+    "id": 702
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Kambhamvaripalle",
+    "id": 703
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Kanigiri",
+    "id": 704
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Kankipadu",
+    "id": 705
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Kuppam",
+    "id": 706
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Kurabalakota",
+    "id": 707
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Tallarevu",
+    "id": 708
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Talluru",
+    "id": 709
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Madugula",
+    "id": 710
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Unguturu",
+    "id": 711
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Unguturu",
+    "id": 712
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Uppalaguptam",
+    "id": 713
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Uyyalavada",
+    "id": 714
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Vadamalapeta",
+    "id": 715
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Vakadu",
+    "id": 716
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Gannavaram",
+    "id": 717
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Garladinne",
+    "id": 718
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Ghantasala",
+    "id": 719
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Golugonda",
+    "id": 720
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Gonegandla",
+    "id": 721
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Gopavaram",
+    "id": 722
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Gorentla",
+    "id": 723
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Jammalamadugu",
+    "id": 724
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Korisapadu",
+    "id": 725
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Mantralayam",
+    "id": 726
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Manubolu",
+    "id": 727
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Marripadu",
+    "id": 728
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Marripudi",
+    "id": 729
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Gudem Kotha Veedhi",
+    "id": 730
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Gudibanda",
+    "id": 731
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Gudlavalleru",
+    "id": 732
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Gudulur",
+    "id": 733
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Gudur",
+    "id": 734
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Guduru",
+    "id": 735
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Guduru",
+    "id": 736
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Gumma Lakshmipuram",
+    "id": 737
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Gummagatta",
+    "id": 738
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Guntakal",
+    "id": 739
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Guntur",
+    "id": 740
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Gurajala",
+    "id": 741
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Gurla",
+    "id": 742
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Gurramkonda",
+    "id": 743
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Hanumantunipadu",
+    "id": 744
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Hindupur",
+    "id": 745
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Hiramandalam",
+    "id": 746
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "I Polavaram",
+    "id": 747
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Ibrahimpatnam",
+    "id": 748
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Ichchapuram",
+    "id": 749
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Indukurupeta",
+    "id": 750
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Inkollu",
+    "id": 751
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Jaggayyapeta",
+    "id": 752
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Jaladanki",
+    "id": 753
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Jalumuru",
+    "id": 754
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Jami",
+    "id": 755
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Janakavaram Panguluru",
+    "id": 756
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Jangareddigudem",
+    "id": 757
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Jilugumilli",
+    "id": 758
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Jiyyammavalasa",
+    "id": 759
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "K.V.V.B. Puram",
+    "id": 760
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kadiam",
+    "id": 761
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Kadiri",
+    "id": 762
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Kaikalur",
+    "id": 763
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kajuluru",
+    "id": 764
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kakinada",
+    "id": 765
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Kakumanu",
+    "id": 766
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Kalakada",
+    "id": 767
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Kalasapadu",
+    "id": 768
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Kalidindi",
+    "id": 769
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Kaligiri",
+    "id": 770
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Kalikiri",
+    "id": 771
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Kalla",
+    "id": 772
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Kallur",
+    "id": 773
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Kaluvoya",
+    "id": 774
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Kalyandurg",
+    "id": 775
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Kamalapuram",
+    "id": 776
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Kamavarapukota",
+    "id": 777
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Kambadur",
+    "id": 778
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Kambham",
+    "id": 779
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Kanaganapalle",
+    "id": 780
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Kanchikacherla",
+    "id": 781
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Kanchili",
+    "id": 782
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Kanekallu",
+    "id": 783
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kapileswarapuram",
+    "id": 784
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Karamchedu",
+    "id": 785
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Karapa",
+    "id": 786
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Karempudi",
+    "id": 787
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Karlapalem",
+    "id": 788
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Karvetnagar",
+    "id": 789
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Kasimkota",
+    "id": 790
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Kavali",
+    "id": 791
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Khajipeta",
+    "id": 792
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Lepakshi",
+    "id": 793
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Mundlamuru",
+    "id": 794
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Orvakal",
+    "id": 795
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Pamarru",
+    "id": 796
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Pamarru",
+    "id": 797
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Prattipadu",
+    "id": 798
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Proddatur",
+    "id": 799
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Ramapuram",
+    "id": 800
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Santakaviti",
+    "id": 801
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Santamaguluru",
+    "id": 802
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Penukonda",
+    "id": 803
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Penumantra",
+    "id": 804
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Komarolu",
+    "id": 805
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Penumuluru",
+    "id": 806
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Penumur",
+    "id": 807
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Tarlupadu",
+    "id": 808
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kirlampudi",
+    "id": 809
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Kodavalur",
+    "id": 810
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Kodumur",
+    "id": 811
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Kodur",
+    "id": 812
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Koduru",
+    "id": 813
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Koilkuntla",
+    "id": 814
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Kolimigundla",
+    "id": 815
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Kollipara",
+    "id": 816
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Kolluru",
+    "id": 817
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Komarada",
+    "id": 818
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Pellakur",
+    "id": 819
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Kota",
+    "id": 820
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Kotabommali",
+    "id": 821
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Nimmanapalle",
+    "id": 822
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Venkatachalam",
+    "id": 823
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Venkatagiri",
+    "id": 824
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Sakhinetipalle",
+    "id": 825
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Sallur",
+    "id": 826
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Tekkal",
+    "id": 827
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Tuggali",
+    "id": 828
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Kondapuram",
+    "id": 829
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Munagapaka",
+    "id": 830
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Munchingipattu",
+    "id": 831
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Muppalla",
+    "id": 832
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Nidadavole",
+    "id": 833
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Patapatnam",
+    "id": 834
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Peddapanjani",
+    "id": 835
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Kondapi",
+    "id": 836
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Malikipuram",
+    "id": 837
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Thondur",
+    "id": 838
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Thottambedu",
+    "id": 839
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Kosigi",
+    "id": 840
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Kovvuru",
+    "id": 841
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Palkonda",
+    "id": 842
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Palmaner",
+    "id": 843
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Pedda Cherlopalli",
+    "id": 844
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Pedda Gannavaram",
+    "id": 845
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Peddakadaburu",
+    "id": 846
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Kotauratla",
+    "id": 847
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Kothacheruvu",
+    "id": 848
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Kottapalle",
+    "id": 849
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Kottapalli",
+    "id": 850
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Kottavalasa",
+    "id": 851
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Kouthalam",
+    "id": 852
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Kovur",
+    "id": 853
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Koyyalagudem",
+    "id": 854
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Koyyuru",
+    "id": 855
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Krishnagiri",
+    "id": 856
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Krosur",
+    "id": 857
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Kruttivennu",
+    "id": 858
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Kuderu",
+    "id": 859
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Kuknuru",
+    "id": 860
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Muttukuru",
+    "id": 861
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Vepada",
+    "id": 862
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Kundurpi",
+    "id": 863
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Kurichedu",
+    "id": 864
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Kurnool",
+    "id": 865
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Kurupam",
+    "id": 866
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Kusumala",
+    "id": 867
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Lakkavarapukota",
+    "id": 868
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Lakkireddipalle",
+    "id": 869
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Laveru",
+    "id": 870
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Lingala",
+    "id": 871
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Lingapalem",
+    "id": 872
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Lingasamudram",
+    "id": 873
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Machavaram",
+    "id": 874
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Macherla",
+    "id": 875
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Machilipatnam",
+    "id": 876
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Madakasira",
+    "id": 877
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Madanapalle",
+    "id": 878
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Maddikera",
+    "id": 879
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Maddipadu",
+    "id": 880
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Mahanandi",
+    "id": 881
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Mylavaram",
+    "id": 882
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Mylavaram",
+    "id": 883
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Nayudupeta",
+    "id": 884
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Nekarikallu",
+    "id": 885
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Panyam",
+    "id": 886
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Peddamandyam",
+    "id": 887
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Peddapadu",
+    "id": 888
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Tenali",
+    "id": 889
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Terlam",
+    "id": 890
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Mamidikuduru",
+    "id": 891
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Mandapeta",
+    "id": 892
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Mentada",
+    "id": 893
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Nellimarla",
+    "id": 894
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Nellore",
+    "id": 895
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Paruchuru",
+    "id": 896
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Mandavalli",
+    "id": 897
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Mangalagiri",
+    "id": 898
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Maredumilli",
+    "id": 899
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Markapur",
+    "id": 900
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Marturu",
+    "id": 901
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Medikonduru",
+    "id": 902
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Mummidivaram",
+    "id": 903
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Peddapuram",
+    "id": 904
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Peddaravidu",
+    "id": 905
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Pyapalli",
+    "id": 906
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Siddhavattam",
+    "id": 907
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Nadendla",
+    "id": 908
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Nagalapuram",
+    "id": 909
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Nagaram",
+    "id": 910
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Nagari",
+    "id": 911
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Nagayalanka",
+    "id": 912
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Nagulaupalapadu",
+    "id": 913
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Nakkapalli",
+    "id": 914
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Nambulipulikunta",
+    "id": 915
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Nandalur",
+    "id": 916
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Nandavaram",
+    "id": 917
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Nandigam",
+    "id": 918
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Nandigama",
+    "id": 919
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Nandikotkur",
+    "id": 920
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Nandivada",
+    "id": 921
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Nandyal",
+    "id": 922
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Narasannapeta",
+    "id": 923
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Narasapur",
+    "id": 924
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Narasaraopet",
+    "id": 925
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Narpala",
+    "id": 926
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Narsipatnam",
+    "id": 927
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Natavaram",
+    "id": 928
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Sambepalle",
+    "id": 929
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Padmanabham",
+    "id": 930
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Pagidyala",
+    "id": 931
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Pakala",
+    "id": 932
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Palakoderu",
+    "id": 933
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Palakollu",
+    "id": 934
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Pullampet",
+    "id": 935
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Pungunuru",
+    "id": 936
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Rajavommangi",
+    "id": 937
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Rajupalem",
+    "id": 938
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Raptadu",
+    "id": 939
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Tadpatri",
+    "id": 940
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Totlavalluru",
+    "id": 941
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Tripurantakam",
+    "id": 942
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Yadamari",
+    "id": 943
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Palapuram",
+    "id": 944
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Palasa",
+    "id": 945
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Pamidi",
+    "id": 946
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Pamidimukkala",
+    "id": 947
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Pamulapadu",
+    "id": 948
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Pamuru",
+    "id": 949
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Paragi",
+    "id": 950
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Paravada",
+    "id": 951
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Parvatipuram",
+    "id": 952
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Pattikonda",
+    "id": 953
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Payakaraopeta",
+    "id": 954
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Peda Kakani",
+    "id": 955
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Pedakurapadu",
+    "id": 956
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Pedana",
+    "id": 957
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Ramagiri",
+    "id": 958
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Pedda Gantyada",
+    "id": 959
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Pedda Mudium",
+    "id": 960
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Pedda Nandipadu",
+    "id": 961
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Pedda Pappuru",
+    "id": 962
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Pedda Tippa Samudram",
+    "id": 963
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Peddabayalu",
+    "id": 964
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Peddapappur",
+    "id": 965
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Peddaparupudi",
+    "id": 966
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Peddapudi",
+    "id": 967
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Peddavaduguru",
+    "id": 968
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Peddavegi",
+    "id": 969
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Penagalur",
+    "id": 970
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Pendlimarri",
+    "id": 971
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Pendurti",
+    "id": 972
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Pentapadu",
+    "id": 973
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Penuganchiprolu",
+    "id": 974
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Penugonda",
+    "id": 975
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Peravalli",
+    "id": 976
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Phirangipuram",
+    "id": 977
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Piduguralla",
+    "id": 978
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Pileru",
+    "id": 979
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Pithapuram",
+    "id": 980
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Pittalavaripalem",
+    "id": 981
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Santbommali",
+    "id": 982
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Santhipuram",
+    "id": 983
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Singanamala",
+    "id": 984
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Singarayakonda",
+    "id": 985
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Vijayapuram",
+    "id": 986
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Vijayawada Rural",
+    "id": 987
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Zarugumalli",
+    "id": 988
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Podalakur",
+    "id": 989
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Podile",
+    "id": 990
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Poduru",
+    "id": 991
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Polaki",
+    "id": 992
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Porumamilla",
+    "id": 993
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Pulicherla",
+    "id": 994
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Pulivendla",
+    "id": 995
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Pullalacheruvu",
+    "id": 996
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Pusapatirega",
+    "id": 997
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Puttaparti",
+    "id": 998
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Puttur",
+    "id": 999
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Racherla",
+    "id": 1000
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Rajamahendravaram Rural",
+    "id": 1001
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Rajamahendravaram Urban",
+    "id": 1002
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Rajam",
+    "id": 1003
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Rajampet",
+    "id": 1004
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Rajanagaram",
+    "id": 1005
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Rajupalem",
+    "id": 1006
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Ramabhadrapuram",
+    "id": 1007
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Ramachandrapura",
+    "id": 1008
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Ramachandrapuram",
+    "id": 1009
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Ramakuppam",
+    "id": 1010
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Ramasamudram",
+    "id": 1011
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Rambilli",
+    "id": 1012
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Ramchandrapuram",
+    "id": 1013
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Rampa Chodavaram",
+    "id": 1014
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Ranasthal",
+    "id": 1015
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Rangampeta",
+    "id": 1016
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Rapur",
+    "id": 1017
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Sangam",
+    "id": 1018
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Sanjamala",
+    "id": 1019
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Santanutalapadu",
+    "id": 1020
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Saravakota",
+    "id": 1021
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Sarubujjili",
+    "id": 1022
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Sarvasiddhi Rayavaram",
+    "id": 1023
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Sattanapalle",
+    "id": 1024
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Satyavedu",
+    "id": 1025
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Savalyapuram",
+    "id": 1026
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Simhadripuram",
+    "id": 1027
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Seethanagaram",
+    "id": 1028
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Setturu",
+    "id": 1029
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Shankhavaram",
+    "id": 1030
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Sirvel",
+    "id": 1031
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Tadimarri",
+    "id": 1032
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Talavanchi Narasapuram",
+    "id": 1033
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Talupula",
+    "id": 1034
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Tanakal",
+    "id": 1035
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Tangutur",
+    "id": 1036
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Tanuku",
+    "id": 1037
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Thallapudi",
+    "id": 1038
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Thamballapalle",
+    "id": 1039
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Thavanampalle",
+    "id": 1040
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Tirupati Rural",
+    "id": 1041
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Vedurukuppam",
+    "id": 1042
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Tirupati Urban",
+    "id": 1043
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Tiruvuru",
+    "id": 1044
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Tondangi",
+    "id": 1045
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Totapalligudur",
+    "id": 1046
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Varadayyapalem",
+    "id": 1047
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Varikuntapadu",
+    "id": 1048
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Vatsavai",
+    "id": 1049
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Vatticherukuru",
+    "id": 1050
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Vayalpad",
+    "id": 1051
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Veldurti",
+    "id": 1052
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Veligandla",
+    "id": 1053
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Veludurti",
+    "id": 1054
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Venkatagirikota",
+    "id": 1055
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Vontimitta",
+    "id": 1056
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Vuyyuru",
+    "id": 1057
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Yelerupadu",
+    "id": 1058
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Velugodu",
+    "id": 1059
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Vempalli",
+    "id": 1060
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Vemula",
+    "id": 1061
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Vemuru",
+    "id": 1062
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Vetapalem",
+    "id": 1063
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Vidapanakallu",
+    "id": 1064
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Vidavalur",
+    "id": 1065
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Vijayawada Urban",
+    "id": 1066
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Potti Sriramulu Nellore",
+    "tehsil": "Vinjamur",
+    "id": 1067
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Yaddanapudi",
+    "id": 1068
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Guntur",
+    "tehsil": "Vinukonda",
+    "id": 1069
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Viraballe",
+    "id": 1070
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Srikakulam",
+    "tehsil": "Viragattam",
+    "id": 1071
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Virapanaya",
+    "id": 1072
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "West Godavari",
+    "tehsil": "Viravasaram",
+    "id": 1073
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Virullapadu",
+    "id": 1074
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Visakhapatnam Rural",
+    "id": 1075
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vishakhapatnam",
+    "tehsil": "Visakhapatnam Urban",
+    "id": 1076
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Krishna",
+    "tehsil": "Vissannapeta",
+    "id": 1077
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Vizianagaram",
+    "tehsil": "Vizianagaram",
+    "id": 1078
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Prakasam",
+    "tehsil": "Voletivaripalem",
+    "id": 1079
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Yellanur",
+    "id": 1080
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Chittoor",
+    "tehsil": "Yerravaripalem",
+    "id": 1081
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Ananthapur",
+    "tehsil": "Yadiki",
+    "id": 1082
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "tehsil": "Yemmiganur Muncipality",
+    "id": 1083
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "Y S R Kadapa",
+    "tehsil": "Yerraguntla",
+    "id": 1084
+  },
+  {
+    "state": "Andhra Pradesh",
+    "district": "East Godavari",
+    "tehsil": "Yarlagaddaramavaram",
+    "id": 1085
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Chityal",
+    "id": 1086
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Chityala",
+    "id": 1087
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Dharur",
+    "id": 1088
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Madduru",
+    "id": 1089
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Madgul",
+    "id": 1090
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Sultanabad",
+    "id": 1091
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "tehsil": "Govindaraopet",
+    "id": 1092
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Dichpalle",
+    "id": 1093
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Dilawarpur",
+    "id": 1094
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Bhongir",
+    "id": 1095
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Bachchannapet",
+    "id": 1096
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Chandrugonda",
+    "id": 1097
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Chandur",
+    "id": 1098
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Kotapalle",
+    "id": 1099
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Atmakur",
+    "id": 1101
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Uppununtala",
+    "id": 1102
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Urban)",
+    "tehsil": "Dharmasagaram",
+    "id": 1103
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Bomraspet",
+    "id": 1104
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Bonakal",
+    "id": 1105
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Chennur",
+    "id": 1106
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Domakonda",
+    "id": 1107
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Gambhiraopet",
+    "id": 1108
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Dummagudem",
+    "id": 1109
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Chandampet",
+    "id": 1110
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Adilabad",
+    "id": 1111
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Sadasivanagar",
+    "id": 1112
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Bayyaram",
+    "id": 1113
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Suryapet",
+    "id": 1114
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Addakal",
+    "id": 1115
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Ajireddigudem",
+    "id": 1116
+  },
+  {
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "tehsil": "Alampur",
+    "id": 1117
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Aler",
+    "id": 1118
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Alladurg",
+    "id": 1119
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Andole",
+    "id": 1120
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Armur",
+    "id": 1121
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Ashwaraopet",
+    "id": 1122
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Bhainsa",
+    "id": 1123
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Bhurgampadu",
+    "id": 1124
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Bibinagar",
+    "id": 1125
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Dahegaon",
+    "id": 1126
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Ghanpur",
+    "id": 1127
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Khammam Urban",
+    "id": 1128
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Khanapur",
+    "id": 1129
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Allikodur",
+    "id": 1130
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Amangal",
+    "id": 1131
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Amrabad",
+    "id": 1132
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Anumula",
+    "id": 1133
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Bodhan",
+    "id": 1134
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Gudihathnur",
+    "id": 1135
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Chiwemla",
+    "id": 1136
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Mirdoddi",
+    "id": 1137
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Jadcherla",
+    "id": 1138
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Mulug",
+    "id": 1139
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Garedpalli",
+    "id": 1140
+  },
+  {
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "tehsil": "Ghattu",
+    "id": 1141
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Gandvid",
+    "id": 1142
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Dammapeta",
+    "id": 1143
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Dandepalli",
+    "id": 1144
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Mudhole",
+    "id": 1145
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Asifabad",
+    "id": 1146
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Aswapuram",
+    "id": 1147
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Atmakur",
+    "id": 1148
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Atmakur(M)",
+    "id": 1149
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Atmakur(S)",
+    "id": 1150
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Basheerabad",
+    "id": 1151
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Dharmaram",
+    "id": 1152
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Regod",
+    "id": 1153
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Tadicherla",
+    "id": 1154
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Gisgonda",
+    "id": 1155
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Balanagar",
+    "id": 1156
+  },
+  {
+    "state": "Telangana",
+    "district": "Medchal-Malkajgiri",
+    "tehsil": "Balanagar",
+    "id": 1157
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Balkonda",
+    "id": 1158
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Balmur",
+    "id": 1159
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Banswada",
+    "id": 1160
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Bantwaram",
+    "id": 1161
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Bazar Hatnur",
+    "id": 1162
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Bejjanki",
+    "id": 1163
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Bela",
+    "id": 1164
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Bellampalli",
+    "id": 1165
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Bhimgal",
+    "id": 1166
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Bhimini",
+    "id": 1167
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Bhudanpochampalli",
+    "id": 1168
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Bhupalpalli",
+    "id": 1169
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Bichkunda",
+    "id": 1170
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Bijjur",
+    "id": 1171
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Bijnapalli",
+    "id": 1172
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Biknur",
+    "id": 1173
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Birkur",
+    "id": 1174
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Boath",
+    "id": 1175
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Boinpalli",
+    "id": 1176
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Bommala Ramawaram",
+    "id": 1177
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Buthpur",
+    "id": 1178
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Kandukur",
+    "id": 1179
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Kathkapur",
+    "id": 1180
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Chandurti",
+    "id": 1181
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Chautuppal",
+    "id": 1182
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Chegunta",
+    "id": 1183
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Chennaraopet",
+    "id": 1184
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Cherial",
+    "id": 1185
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Chevella",
+    "id": 1186
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Chilkuru",
+    "id": 1187
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Chinna Chinthakunta",
+    "id": 1188
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Chinna Kodur",
+    "id": 1189
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Cherla",
+    "id": 1190
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Duggondi",
+    "id": 1191
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Morthad",
+    "id": 1192
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Moteh",
+    "id": 1193
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Julurupadu",
+    "id": 1194
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Chintapalli",
+    "id": 1195
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Chinthakani",
+    "id": 1196
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Choppadandi",
+    "id": 1197
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Damaragidda",
+    "id": 1198
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Damarcherla",
+    "id": 1199
+  },
+  {
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "tehsil": "Vaddepalli",
+    "id": 1200
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Doma",
+    "id": 1201
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Maidpalli",
+    "id": 1202
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Jagdevpur",
+    "id": 1203
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Devarkadra",
+    "id": 1204
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Devarkonda",
+    "id": 1205
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Jagtial",
+    "id": 1206
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Jainad",
+    "id": 1207
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Kulsaram",
+    "id": 1208
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Medlache",
+    "id": 1209
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Patan Cheruvu",
+    "id": 1210
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "tehsil": "Eturunagaram",
+    "id": 1211
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Evaruppal",
+    "id": 1212
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Gollapaali",
+    "id": 1213
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Urban)",
+    "tehsil": "Hanmakonda",
+    "id": 1214
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Navipet",
+    "id": 1215
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Nawabpet",
+    "id": 1216
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Nennal",
+    "id": 1217
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Neredcherla",
+    "id": 1218
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Nidamanur",
+    "id": 1219
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Nirmal",
+    "id": 1220
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Nizamabad",
+    "id": 1221
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Nizamabad Town",
+    "id": 1222
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Nizamsagar",
+    "id": 1223
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Nutankal",
+    "id": 1224
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Nyalkal",
+    "id": 1225
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Odela",
+    "id": 1226
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Pargi",
+    "id": 1227
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Parkal",
+    "id": 1228
+  },
+  {
+    "state": "Telangana",
+    "district": "Medchal-Malkajgiri",
+    "tehsil": "Keesara",
+    "id": 1229
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Dhanwada",
+    "id": 1230
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Dharmapuri",
+    "id": 1231
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Dharpalle",
+    "id": 1232
+  },
+  {
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "tehsil": "Dharur",
+    "id": 1233
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Dornakal",
+    "id": 1234
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Doulatabad",
+    "id": 1235
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Ellandakunda",
+    "id": 1236
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Gandhari",
+    "id": 1237
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Kodakandla",
+    "id": 1238
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Kodangal",
+    "id": 1239
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Korutla",
+    "id": 1240
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Kouthala",
+    "id": 1241
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Doultabad",
+    "id": 1242
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Dubbak",
+    "id": 1243
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Gajwel",
+    "id": 1245
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Gangadhara",
+    "id": 1246
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Metpalli",
+    "id": 1247
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Midjil",
+    "id": 1248
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Mirialguda",
+    "id": 1249
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Mogullapalli",
+    "id": 1250
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Moinabad",
+    "id": 1251
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Momanpet",
+    "id": 1252
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Mothkur",
+    "id": 1253
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Mudigonda",
+    "id": 1254
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Mulakalapalli",
+    "id": 1255
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Rebbana",
+    "id": 1256
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Regonda",
+    "id": 1257
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Khanapur",
+    "id": 1258
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Sadasivpet",
+    "id": 1259
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Saidapur",
+    "id": 1260
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Tungaturti",
+    "id": 1261
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Tupran",
+    "id": 1262
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Turkapalli",
+    "id": 1263
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Kammarpalle",
+    "id": 1264
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Maganur",
+    "id": 1265
+  },
+  {
+    "state": "Telangana",
+    "district": "Medchal-Malkajgiri",
+    "tehsil": "Uppal",
+    "id": 1266
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Utkur",
+    "id": 1267
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Utnur",
+    "id": 1268
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Garla",
+    "id": 1269
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Ghanpur(Mulug)",
+    "id": 1270
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Ghanpur(Station)",
+    "id": 1271
+  },
+  {
+    "state": "Telangana",
+    "district": "Medchal-Malkajgiri",
+    "tehsil": "Ghatkesar",
+    "id": 1272
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Gopalpeta",
+    "id": 1273
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Jammikunta",
+    "id": 1274
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Konijerla",
+    "id": 1275
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Madhira",
+    "id": 1276
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Madnur",
+    "id": 1277
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Gudur",
+    "id": 1278
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Gundal",
+    "id": 1279
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Gundala",
+    "id": 1280
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Gundlapalli",
+    "id": 1281
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Gurrampod",
+    "id": 1282
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Hanwada",
+    "id": 1283
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Urban)",
+    "tehsil": "Hasanparti",
+    "id": 1284
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Hayathnagar",
+    "id": 1285
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Huzurnagar",
+    "id": 1286
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Ibrahimpatan",
+    "id": 1287
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Ibrahimpatnam",
+    "id": 1288
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Ichoda",
+    "id": 1289
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Inderavelli",
+    "id": 1290
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Jainur",
+    "id": 1291
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Jaipur",
+    "id": 1292
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Jakranpalle",
+    "id": 1293
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Jangaon",
+    "id": 1294
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Jannaram",
+    "id": 1295
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Jharasangam",
+    "id": 1296
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Jinnawaram",
+    "id": 1297
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Jukkal",
+    "id": 1298
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Julapalli",
+    "id": 1299
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Kaddam",
+    "id": 1300
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Kagaznagar",
+    "id": 1301
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Kallar",
+    "id": 1302
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Kalluru",
+    "id": 1303
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Kalwakurthi",
+    "id": 1304
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Kalwasrirampur",
+    "id": 1305
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Kamareddy",
+    "id": 1306
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Kanagallu",
+    "id": 1307
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Kangti",
+    "id": 1308
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Karimnagar",
+    "id": 1309
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Kasipet",
+    "id": 1310
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Kataram",
+    "id": 1311
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Kattangur",
+    "id": 1312
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Kerameri",
+    "id": 1313
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Kesamudram",
+    "id": 1314
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Kesavapatnam",
+    "id": 1315
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Keshampet",
+    "id": 1316
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Kethepalli",
+    "id": 1317
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Khammam Rural",
+    "id": 1318
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Khammam Urban",
+    "id": 1319
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "tehsil": "Mulugu",
+    "id": 1320
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Raikal",
+    "id": 1321
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Raiparthi",
+    "id": 1322
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Ramannapet",
+    "id": 1323
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Lingal",
+    "id": 1324
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Tanur",
+    "id": 1325
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Kodad",
+    "id": 1326
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Kodmial",
+    "id": 1327
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Kodur",
+    "id": 1328
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Koheda",
+    "id": 1329
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Koilkonda",
+    "id": 1330
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Kollapur",
+    "id": 1331
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Pegadapalli",
+    "id": 1332
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Tekmal",
+    "id": 1333
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Valigonda",
+    "id": 1334
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Konaraopet",
+    "id": 1335
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Kondapak",
+    "id": 1336
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Kondurg",
+    "id": 1337
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Munpalle",
+    "id": 1338
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Narmeta",
+    "id": 1339
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Narnur",
+    "id": 1340
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Neredikonda",
+    "id": 1341
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Patancheruvu",
+    "id": 1342
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Peddapalli",
+    "id": 1343
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Kondapur",
+    "id": 1344
+  },
+  {
+    "state": "Telangana",
+    "district": "Medchal-Malkajgiri",
+    "tehsil": "Malkajgiri",
+    "id": 1345
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Narayanpur",
+    "id": 1346
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Narkatpalli",
+    "id": 1347
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Nekkonda",
+    "id": 1348
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Nelakondapalli",
+    "id": 1349
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Timmapuram",
+    "id": 1350
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Tipparti",
+    "id": 1351
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Kosgi",
+    "id": 1352
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Kotagir1",
+    "id": 1353
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Kothagudem",
+    "id": 1354
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Kothagudem",
+    "id": 1355
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Kottakota",
+    "id": 1356
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Kottur",
+    "id": 1357
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Kowdipalle",
+    "id": 1358
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Kubir",
+    "id": 1359
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Kulkacharla",
+    "id": 1360
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Mutharam",
+    "id": 1361
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Nawabpet",
+    "id": 1362
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "tehsil": "Venkatapuram",
+    "id": 1363
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Kuntala",
+    "id": 1364
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Kuravi",
+    "id": 1365
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Kushmanchi",
+    "id": 1366
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Lakshetipet",
+    "id": 1367
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Lakshmanchanda",
+    "id": 1368
+  },
+  {
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "tehsil": "Leej",
+    "id": 1369
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Lingal Ghanpuram",
+    "id": 1370
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Lingampet",
+    "id": 1371
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Lokeshwaram",
+    "id": 1372
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Machareddy",
+    "id": 1373
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Maddur",
+    "id": 1374
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubnagar",
+    "tehsil": "Mahabubnagar",
+    "id": 1375
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Mahbu",
+    "id": 1376
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Maheshwaram",
+    "id": 1377
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Maklur",
+    "id": 1378
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Makthal",
+    "id": 1379
+  },
+  {
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "tehsil": "Maldakal",
+    "id": 1380
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Papannapet",
+    "id": 1381
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Mallapur",
+    "id": 1382
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Mallial",
+    "id": 1383
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Mamda",
+    "id": 1384
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Manakondur",
+    "id": 1385
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Manchal",
+    "id": 1386
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Mancherial",
+    "id": 1387
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Mandamarri",
+    "id": 1388
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Mungod",
+    "id": 1389
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Parvatgiri",
+    "id": 1390
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Shankarampet",
+    "id": 1391
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Shankarampet",
+    "id": 1392
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "tehsil": "Mangapet",
+    "id": 1393
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Manoor",
+    "id": 1394
+  },
+  {
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "tehsil": "Manopadu",
+    "id": 1395
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Manthani",
+    "id": 1396
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Manugur",
+    "id": 1397
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Maripeda",
+    "id": 1398
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Marpalli",
+    "id": 1399
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Marrigudem",
+    "id": 1400
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Mathampalli",
+    "id": 1401
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Medak",
+    "id": 1402
+  },
+  {
+    "state": "Telangana",
+    "district": "Medchal-Malkajgiri",
+    "tehsil": "Medchal",
+    "id": 1403
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Munagala",
+    "id": 1404
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Mustabad",
+    "id": 1405
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Mutharam",
+    "id": 1406
+  },
+  {
+    "state": "Telangana",
+    "district": "Medchal-Malkajgiri",
+    "tehsil": "Qutubullapur",
+    "id": 1407
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Shivampet",
+    "id": 1408
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Nadigudem",
+    "id": 1409
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Nagarkurnool",
+    "id": 1410
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Nagareddipet",
+    "id": 1411
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Nakrekal",
+    "id": 1412
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Nalgonda",
+    "id": 1413
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Nallaballi",
+    "id": 1414
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Nampalli",
+    "id": 1415
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Nandipet",
+    "id": 1416
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Nangnur",
+    "id": 1417
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Narayanpet",
+    "id": 1418
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Narsampet",
+    "id": 1419
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Narsapur",
+    "id": 1420
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Narsimlapet",
+    "id": 1421
+  },
+  {
+    "state": "Telangana",
+    "district": "Narayanpet",
+    "tehsil": "Narva",
+    "id": 1422
+  },
+  {
+    "state": "Telangana",
+    "district": "Nirmal",
+    "tehsil": "Sarangapur",
+    "id": 1423
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Sarangapur",
+    "id": 1424
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Ranjal",
+    "id": 1425
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Tadur",
+    "id": 1426
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Yadagirigutta",
+    "id": 1427
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Zafargarh",
+    "id": 1428
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Wanaparthy",
+    "id": 1429
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Palakurti",
+    "id": 1430
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Paloncha",
+    "id": 1431
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Pangal",
+    "id": 1432
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Pebburu",
+    "id": 1433
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Pedda Adisarlapalli",
+    "id": 1434
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Pulkal",
+    "id": 1435
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Ramadugu",
+    "id": 1436
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Peddakottapalli",
+    "id": 1437
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Peddamandadi",
+    "id": 1438
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Peddavuru",
+    "id": 1439
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Peddemul",
+    "id": 1440
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Penpahad",
+    "id": 1441
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Penuballi",
+    "id": 1442
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Pinapaka",
+    "id": 1443
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Pitlam",
+    "id": 1444
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Pudur",
+    "id": 1445
+  },
+  {
+    "state": "Telangana",
+    "district": "Jangaon",
+    "tehsil": "Raghunathpalli",
+    "id": 1446
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Raigod",
+    "id": 1447
+  },
+  {
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "tehsil": "Rajapeta",
+    "id": 1448
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Ramachandrapuram",
+    "id": 1449
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Ramayampet",
+    "id": 1450
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Ramgundam",
+    "id": 1451
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Sangam",
+    "id": 1452
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Saroornagar",
+    "id": 1454
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Sattupalli",
+    "id": 1455
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Sayampet",
+    "id": 1456
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "tehsil": "Tadvai",
+    "id": 1457
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Singareni",
+    "id": 1458
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Thirumalayapalem",
+    "id": 1459
+  },
+  {
+    "state": "Telangana",
+    "district": "Jogulamba Gadwal",
+    "tehsil": "Itikyala",
+    "id": 1460
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Yellandu",
+    "id": 1461
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Tadwai",
+    "id": 1462
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Serilingampalli",
+    "id": 1463
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Shadnagar",
+    "id": 1464
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Shahabad",
+    "id": 1465
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Shaligouraram",
+    "id": 1466
+  },
+  {
+    "state": "Telangana",
+    "district": "Medchal-Malkajgiri",
+    "tehsil": "Shamirpet",
+    "id": 1467
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Shamshabad",
+    "id": 1468
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Shankarpalle",
+    "id": 1469
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Siddipet",
+    "id": 1470
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Sirkonda",
+    "id": 1471
+  },
+  {
+    "state": "Telangana",
+    "district": "Jayashankar Bhupalapally",
+    "tehsil": "Sironcha",
+    "id": 1472
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Sirpur",
+    "id": 1473
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Sirpur(T)",
+    "id": 1474
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Sirsilla",
+    "id": 1475
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Talakondapalli",
+    "id": 1476
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Talamadugu",
+    "id": 1477
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Tallada",
+    "id": 1478
+  },
+  {
+    "state": "Telangana",
+    "district": "Adilabad",
+    "tehsil": "Tamsi",
+    "id": 1479
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Tandur",
+    "id": 1480
+  },
+  {
+    "state": "Telangana",
+    "district": "Bhadradri Kothagudem",
+    "tehsil": "Tekulapalle",
+    "id": 1481
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Telkapalli",
+    "id": 1482
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Timmajipet",
+    "id": 1483
+  },
+  {
+    "state": "Telangana",
+    "district": "Suryapet",
+    "tehsil": "Tirmalgiri",
+    "id": 1484
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Urban)",
+    "tehsil": "Veenavanka",
+    "id": 1485
+  },
+  {
+    "state": "Telangana",
+    "district": "Rangareddy",
+    "tehsil": "Yacharam",
+    "id": 1486
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Zaheerabad",
+    "id": 1487
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Tiryani",
+    "id": 1488
+  },
+  {
+    "state": "Telangana",
+    "district": "Mahabubabad",
+    "tehsil": "Torur",
+    "id": 1489
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Tripuraram",
+    "id": 1490
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Vangur",
+    "id": 1491
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Rural)",
+    "tehsil": "Vardannapet",
+    "id": 1492
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Varni",
+    "id": 1493
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Veldanda",
+    "id": 1494
+  },
+  {
+    "state": "Telangana",
+    "district": "Jagtial",
+    "tehsil": "Velgatur",
+    "id": 1495
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Velpur",
+    "id": 1496
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "tehsil": "Venkatapur",
+    "id": 1497
+  },
+  {
+    "state": "Telangana",
+    "district": "Wanaparthy",
+    "tehsil": "Wepangandla",
+    "id": 1498
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Wyra",
+    "id": 1499
+  },
+  {
+    "state": "Telangana",
+    "district": "Mancherial",
+    "tehsil": "Vemanapalle",
+    "id": 1500
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Vemsuru",
+    "id": 1501
+  },
+  {
+    "state": "Telangana",
+    "district": "Nalgonda",
+    "tehsil": "Vemulapalli",
+    "id": 1502
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Vemulawada",
+    "id": 1503
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Vikarabad",
+    "id": 1504
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Vinavanka",
+    "id": 1505
+  },
+  {
+    "state": "Telangana",
+    "district": "Mulugu",
+    "tehsil": "Wajidu",
+    "id": 1506
+  },
+  {
+    "state": "Telangana",
+    "district": "Kamareddy",
+    "tehsil": "Yellareddi",
+    "id": 1507
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Yerrupalem",
+    "id": 1508
+  },
+  {
+    "state": "Telangana",
+    "district": "Kumuram Bheem",
+    "tehsil": "Wankidi",
+    "id": 1509
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Wargal",
+    "id": 1510
+  },
+  {
+    "state": "Telangana",
+    "district": "Nizamabad",
+    "tehsil": "Yedpalle",
+    "id": 1511
+  },
+  {
+    "state": "Telangana",
+    "district": "Vikarabad",
+    "tehsil": "Yelal",
+    "id": 1512
+  },
+  {
+    "state": "Telangana",
+    "district": "Medak",
+    "tehsil": "Yeldurti",
+    "id": 1513
+  },
+  {
+    "state": "Telangana",
+    "district": "Ranjanna Sircilla",
+    "tehsil": "Yellareddipet",
+    "id": 1514
+  },
+  {
+    "state": "Telangana",
+    "district": "Khammam",
+    "tehsil": "Yenkur",
+    "id": 1515
+  },
+  {
+    "state": "Telangana",
+    "district": "Nagarkurnool",
+    "tehsil": "Amrabad Reserved Forest",
+    "id": 1516
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "tehsil": "Hyderabad",
+    "id": 1517
+  },
+  {
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "tehsil": "Secunderabad",
+    "id": 1518
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Urban)",
+    "tehsil": "Kamalapur",
+    "id": 4034
+  },
+  {
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "tehsil": "Kamalapur",
+    "id": 4035
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Narayankher",
+    "id": 4036
+  },
+  {
+    "state": "Telangana",
+    "district": "Sangareddy",
+    "tehsil": "Narayankher",
+    "id": 4037
+  },
+  {
+    "state": "Telangana",
+    "district": "Warangal (Urban)",
+    "tehsil": "Chigurumamidi",
+    "id": 4038
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Chigurumamidi",
+    "id": 4039
+  },
+  {
+    "state": "Telangana",
+    "district": "Siddipet",
+    "tehsil": "Husnabad",
+    "id": 4040
+  },
+  {
+    "state": "Telangana",
+    "district": "Karimnagar",
+    "tehsil": "Husnabad",
+    "id": 4041
+  }
+]
