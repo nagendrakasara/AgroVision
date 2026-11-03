@@ -1127,67 +1127,13 @@ with disease_tab:
                                 except Exception as error:
                                     st.error(f"Classification failed: {error}")
     
-                        # YOLO localization runs automatically from the same click/image.
+                                               # YOLO temporarily disabled for deployment testing.
                         with result_col2:
                             st.subheader("🎯 Affected Region Localization")
-                            st.caption(
-                                "YOLO highlights regions recognized as affected; "
-                                "this one-class model does not name the specific disease."
+                            st.info(
+                                "YOLO localization is temporarily disabled "
+                                "while testing the disease classification module."
                             )
-    
-                            if not YOLO_PATH.exists():
-                                st.error(f"YOLO model not found: {YOLO_PATH}")
-                            else:
-                                try:
-                                    with st.spinner("Locating affected regions..."):
-                                        yolo = load_yolo()
-                                        results = yolo.predict(
-                                            source=image,
-                                            conf=0.45,
-                                            iou=0.40,
-                                            max_det=3,
-                                            imgsz=640,
-                                            device="cpu",
-                                            verbose=False,
-                                        )
-    
-                                    yolo_result = results[0]
-                                    annotated_rgb = yolo_result.plot()[:, :, ::-1]
-    
-                                    st.image(
-                                        annotated_rgb,
-                                        caption="YOLO localization output",
-                                        width=480,
-                                    )
-    
-                                    if (
-                                        yolo_result.boxes is not None
-                                        and len(yolo_result.boxes) > 0
-                                    ):
-                                        st.success(
-                                            f"Detected {len(yolo_result.boxes)} "
-                                            "affected region(s)."
-                                        )
-                                        for index, box in enumerate(
-                                            yolo_result.boxes, start=1
-                                        ):
-                                            class_id = int(box.cls[0].item())
-                                            score = float(box.conf[0].item())
-                                            label = yolo_result.names.get(
-                                                class_id, str(class_id)
-                                            )
-                                            st.write(
-                                                f"{index}. **{label}** — "
-                                                f"{score * 100:.1f}% detection confidence"
-                                            )
-                                    else:
-                                        st.info(
-                                            "No affected regions detected. "
-                                            "This does not prove that the leaf is healthy."
-                                        )
-    
-                                except Exception as error:
-                                    st.error(f"YOLO localization failed: {error}")
     
                 except Exception as error:
                     st.error(f"Plant leaf validation failed: {error}")
