@@ -1127,14 +1127,50 @@ with disease_tab:
                                 except Exception as error:
                                     st.error(f"Classification failed: {error}")
     
-                                               # YOLO temporarily disabled for deployment testing.
-                        with result_col2:
-                            st.subheader("🎯 Affected Region Localization")
-                            st.info(
-                                "YOLO localization is temporarily disabled "
-                                "while testing the disease classification module."
-                            )
-    
+                                               # YOLO affected-region localization
+with result_col2:
+    st.subheader("🎯 Affected Region Localization")
+
+    if not YOLO_PATH.exists():
+        st.error(f"YOLO model not found: {YOLO_PATH}")
+    else:
+        try:
+            with st.spinner("Detecting disease-affected regions..."):
+                yolo_model = load_yolo()
+
+                yolo_results = yolo_model.predict(
+                    source=image,
+                    conf=0.25,
+                    iou=0.45,
+                    imgsz=512,
+                    max_det=5,
+                    verbose=False
+                )
+
+                result = yolo_results[0]
+
+                if result.boxes is not None and len(result.boxes) > 0:
+                    annotated_image = result.plot()
+
+                    # Convert BGR image to RGB for Streamlit
+                    annotated_image = annotated_image[:, :, ::-1]
+
+                    st.success(
+                        f"Detected {len(result.boxes)} affected region(s)."
+                    )
+
+                    st.image(
+                        annotated_image,
+                        caption="YOLO Disease-Affected Region Localization",
+                        width="stretch"
+                    )
+                else:
+                    st.warning(
+                        "No disease-affected regions detected by YOLO."
+                    )
+
+        except Exception as error:
+            st.error(f"YOLO localization failed: {error}")
                 except Exception as error:
                     st.error(f"Plant leaf validation failed: {error}")
 
