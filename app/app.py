@@ -1074,6 +1074,7 @@ with disease_tab:
                             "validation threshold. Please upload a clear "
                             "photograph of a plant leaf."
                         )
+
                     else:
                         st.success("Plant leaf accepted. Starting disease analysis.")
 
@@ -1084,93 +1085,101 @@ with disease_tab:
                             )
 
                         result_col1, result_col2 = st.columns(2, gap="large")
-    
+
                         # MobileNetV2 classification
                         with result_col1:
                             st.subheader("🧠 Disease Classification")
+
                             if not MOBILENET_PATH.exists():
                                 st.error(f"MobileNetV2 model not found: {MOBILENET_PATH}")
+
                             elif not CLASS_NAMES_PATH.exists():
                                 st.error(f"Class names file not found: {CLASS_NAMES_PATH}")
+
                             else:
                                 try:
                                     with st.spinner("Classifying the leaf..."):
                                         predicted_class, confidence, top_predictions = (
                                             classify_leaf(image)
                                         )
-    
+
                                     crop, disease = readable_class(predicted_class)
+
                                     st.success("Classification completed")
                                     st.metric("Predicted crop", crop.title())
+
                                     st.markdown(
                                         f"**Predicted condition:** {disease.title()}"
                                     )
+
                                     st.progress(max(0.0, min(confidence, 1.0)))
+
                                     st.write(
                                         f"**Model confidence:** {confidence * 100:.2f}%"
                                     )
-    
+
                                     if confidence < 0.60:
                                         st.warning(
                                             "Confidence is relatively low. "
                                             "Try another clear image and seek expert confirmation."
                                         )
-    
+
                                     with st.expander("View top 3 predictions"):
                                         for name, score in top_predictions:
                                             crop_name, disease_name = readable_class(name)
+
                                             st.write(
                                                 f"**{crop_name.title()} — "
                                                 f"{disease_name.title()}**: {score * 100:.2f}%"
                                             )
-    
+
                                 except Exception as error:
                                     st.error(f"Classification failed: {error}")
-    
-                                               # YOLO affected-region localization
-with result_col2:
-    st.subheader("🎯 Affected Region Localization")
 
-    if not YOLO_PATH.exists():
-        st.error(f"YOLO model not found: {YOLO_PATH}")
-    else:
-        try:
-            with st.spinner("Detecting disease-affected regions..."):
-                yolo_model = load_yolo()
+                        # YOLO affected-region localization
+                        with result_col2:
+                            st.subheader("🎯 Affected Region Localization")
 
-                yolo_results = yolo_model.predict(
-                    source=image,
-                    conf=0.25,
-                    iou=0.45,
-                    imgsz=512,
-                    max_det=5,
-                    verbose=False
-                )
+                            if not YOLO_PATH.exists():
+                                st.error(f"YOLO model not found: {YOLO_PATH}")
 
-                result = yolo_results[0]
+                            else:
+                                try:
+                                    with st.spinner("Detecting disease-affected regions..."):
+                                        yolo_model = load_yolo()
 
-                if result.boxes is not None and len(result.boxes) > 0:
-                    annotated_image = result.plot()
+                                        yolo_results = yolo_model.predict(
+                                            source=image,
+                                            conf=0.25,
+                                            iou=0.45,
+                                            imgsz=512,
+                                            max_det=5,
+                                            verbose=False
+                                        )
 
-                    # Convert BGR image to RGB for Streamlit
-                    annotated_image = annotated_image[:, :, ::-1]
+                                    result = yolo_results[0]
 
-                    st.success(
-                        f"Detected {len(result.boxes)} affected region(s)."
-                    )
+                                    if result.boxes is not None and len(result.boxes) > 0:
+                                        annotated_image = result.plot()[:, :, ::-1]
 
-                    st.image(
-                        annotated_image,
-                        caption="YOLO Disease-Affected Region Localization",
-                        width="stretch"
-                    )
-                else:
-                    st.warning(
-                        "No disease-affected regions detected by YOLO."
-                    )
+                                        st.success(
+                                            f"Detected {len(result.boxes)} affected region(s)."
+                                        )
 
-        except Exception as error:
-            st.error(f"YOLO localization failed: {error}")
+                                        st.image(
+                                            annotated_image,
+                                            caption="YOLO Disease-Affected Regions",
+                                            width="stretch"
+                                        )
+
+                                    else:
+                                        st.warning(
+                                            "No disease-affected regions detected by YOLO."
+                                        )
+
+                                except Exception as error:
+                                    st.error(f"YOLO localization failed: {error}")
+
                 except Exception as error:
                     st.error(f"Plant leaf validation failed: {error}")
 
